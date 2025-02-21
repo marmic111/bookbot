@@ -65,20 +65,6 @@ def write_report(book_path, wordcount, list_of_dict):
       
     print ("\n----------- End report -----------")
 
-###
-#report = write_report(book_path, wordcount, charcount)
-  
-
-  
- # print charcount_converted
-
-#def write_report(book_path, wordcount, charcount):
- # print(f"--- Begin report of {bookpath}")
-  #print(f"{wordcount} words found in the document")
-  #for char in dict_char:
-   # if char.isalpha() == True:
-    #  print
-
 
 if __name__ == "__main__":
     main()
